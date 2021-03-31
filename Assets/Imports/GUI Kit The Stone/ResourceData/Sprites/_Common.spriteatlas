@@ -44,7 +44,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: e7df71e2cd7f749e4a0b1f31e6a9de6d, type: 3}
-    totalSpriteSurfaceArea: 4699057
+    totalSpriteSurfaceArea: 4856872
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -61,8 +61,11 @@ SpriteAtlas:
   - {fileID: 21300000, guid: cce590c12d0f5425b9a6dcd550e5b88c, type: 3}
   - {fileID: 21300000, guid: 353b9212704264e2bb705bdbfdf9030b, type: 3}
   - {fileID: 21300000, guid: 2ff96032cccaa4cac810220fca1ff7a5, type: 3}
+  - {fileID: 21300000, guid: 1b15a352d8ad64af49cacb2bde37cd85, type: 3}
   - {fileID: 21300000, guid: 51db62e2be880429986f314a80f0d5e3, type: 3}
+  - {fileID: 21300000, guid: ac1fa963d7f0043e1b589f437398c7ac, type: 3}
   - {fileID: 21300000, guid: 41153593243254393a070b96a3ad6731, type: 3}
+  - {fileID: 21300000, guid: cbb338b33765f40d2b04b54d803786bd, type: 3}
   - {fileID: 21300000, guid: 18ad93c36667445aca5245e43e1d1c7b, type: 3}
   - {fileID: 21300000, guid: 05c580f3af06440bfb8bcf38fbc395ca, type: 3}
   - {fileID: 21300000, guid: 6e3e21f3ac4be4712b947058c2093a9a, type: 3}
@@ -92,6 +95,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 741065579880b4e1c929ab49bd185620, type: 3}
   - {fileID: 21300000, guid: 85b8c077af757423b85df92789d332dd, type: 3}
   - {fileID: 21300000, guid: 1d03a0a7412804d409267d17eafbce67, type: 3}
+  - {fileID: 21300000, guid: 4f27cdb744c7b4f4aba46139d40a63f1, type: 3}
   - {fileID: 21300000, guid: 8d2bb4e76daaa45829b6d2eea25a660c, type: 3}
   - {fileID: 21300000, guid: bec952085f91f4f20a74f044506b140f, type: 3}
   - {fileID: 21300000, guid: bd8d9d1883d6b4465bbe7b4ad0621d4e, type: 3}
@@ -129,15 +133,20 @@ SpriteAtlas:
   - {fileID: 21300000, guid: fa44251cda56342ce8353ba37207eccf, type: 3}
   - {fileID: 21300000, guid: bcd1d4fc09b0b4f56919cd3166dbf726, type: 3}
   - {fileID: 21300000, guid: cc96ae0dba26c4799a55f2d9d261aff0, type: 3}
+  - {fileID: 21300000, guid: aa04871d55ad4478a99ba540017e88c0, type: 3}
+  - {fileID: 21300000, guid: f139613dc3ca24233a05524c5162cdd8, type: 3}
   - {fileID: 21300000, guid: e3c6598d6dc9b4bfd92be300f5733c59, type: 3}
   - {fileID: 21300000, guid: 26f4dc9d84a7e4952bd204475e44b7fe, type: 3}
   - {fileID: 21300000, guid: 95d126cdbe8c34c69865caa6d7c8ecfd, type: 3}
   - {fileID: 21300000, guid: 2e87c3ed572b84ea59e50c1f8bac6380, type: 3}
   - {fileID: 21300000, guid: 128ee11ef4a214ababec88da318cc78f, type: 3}
+  - {fileID: 21300000, guid: 9f50362e3fa90440b8caef63181d40de, type: 3}
   - {fileID: 21300000, guid: b264386ec04e54d6e9c61eb484e0c9a6, type: 3}
   - {fileID: 21300000, guid: ffe7523fb84f34effb77d9337bf10ea8, type: 3}
   - {fileID: 21300000, guid: fdfbb73f2761744eb89b10fa17bd9ab0, type: 3}
   - {fileID: 21300000, guid: 6311485f25d8945c581980d1bbf99a2f, type: 3}
+  - {fileID: 21300000, guid: 032c986f0cb8e402aabce9d589c47ca3, type: 3}
+  - {fileID: 21300000, guid: 36267bcf5b2d343cdadf8a4766598974, type: 3}
   m_PackedSpriteNamesToIndex:
   - slider_skill_frame_purple
   - user_info_profile_default
@@ -150,8 +159,11 @@ SpriteAtlas:
   - slidebar_bar_0
   - joysick_point
   - toggle_switch_on
+  - status_bg_common_0
   - effect_grow_white
+  - status_icon_star
   - Layer 1
+  - btn_color_green
   - effect_particle_01
   - slider_skill_icon_energe
   - icon_reward_coin
@@ -181,6 +193,7 @@ SpriteAtlas:
   - notification_alert
   - skill_bar_purple_0
   - effect_particle_02
+  - common_btn_color_red_0
   - common_gage_brown_0
   - skill_bar_red_0
   - input_field_icon_required_circle
@@ -218,15 +231,20 @@ SpriteAtlas:
   - slider_loading_fill
   - skill_bar_blue_0
   - btn_icon_resume
+  - status_icon_coin
+  - btn_color_blue
   - thumbnail_list_user
   - background
   - joysick_bg
   - slider_skill_icon_potion
   - skill_bar_gray_0
+  - common_btn_color_brown_0
   - thumbnail_list_frame
   - label_brown_0
   - effect_particle_04
   - skill_bar_bg_0
+  - status_btn_add
+  - common_btn_color_purple_0
   m_RenderDataMap: {}
   m_Tag: _Common
   m_IsVariant: 0

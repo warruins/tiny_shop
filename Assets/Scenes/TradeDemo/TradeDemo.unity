@@ -646,6 +646,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 378
       objectReference: {fileID: 0}
+    - target: {fileID: 501733838649592393, guid: 36511fffb4e455040a99b30d4fb85ba4, type: 3}
+      propertyPath: itemImage
+      value: 
+      objectReference: {fileID: 21300000, guid: 7b7b5cc7c1464564f80791a20729099f, type: 3}
     - target: {fileID: 1158121218527829067, guid: 36511fffb4e455040a99b30d4fb85ba4, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -0.13702393
@@ -1114,8 +1118,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: dfde8710550053041bb019df4c503355, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: 2969678862317009722, guid: 68b35d2059b8c46e0a98e53628e9b3af, type: 3}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1435,8 +1439,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b94253c71a805234bad9fe464f5fcceb, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: -4189922956459317181, guid: ae9f8677ca3c24a7c80d7217a941f886, type: 3}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1742,7 +1746,7 @@ PrefabInstance:
     - target: {fileID: 501733838649592393, guid: 36511fffb4e455040a99b30d4fb85ba4, type: 3}
       propertyPath: itemImage
       value: 
-      objectReference: {fileID: 21300000, guid: 4fd075ae853bfa645b1e45a66becc894, type: 3}
+      objectReference: {fileID: 21300000, guid: 66282bc258ad36041afabf3e28a559e0, type: 3}
     - target: {fileID: 501733838649592393, guid: 36511fffb4e455040a99b30d4fb85ba4, type: 3}
       propertyPath: itemDescription
       value: Slender stalks with fluffy heads.
@@ -1847,6 +1851,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7159775691385622105, guid: 36511fffb4e455040a99b30d4fb85ba4, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7159775691385622105, guid: 36511fffb4e455040a99b30d4fb85ba4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 775d51d2084c6436899c5981da7e484b, type: 3}
     - target: {fileID: 7159775692643290210, guid: 36511fffb4e455040a99b30d4fb85ba4, type: 3}
       propertyPath: helpText
       value: 

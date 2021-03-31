@@ -44,7 +44,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 7c3ba9cb6ab3c4d15b6bd00d4df29899, type: 3}
-    totalSpriteSurfaceArea: 33818272
+    totalSpriteSurfaceArea: 34342560
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -153,6 +153,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: d83bbfd245c0741e4ac768d762102ea5, type: 3}
   - {fileID: 21300000, guid: 4f5a3913239d6419f9591dc95ada2e65, type: 3}
   - {fileID: 21300000, guid: 5fe37913adc054686a27f613a7b7da42, type: 3}
+  - {fileID: 21300000, guid: 7a86a91344ec84b3da854fbfe6f48799, type: 3}
   - {fileID: 21300000, guid: 934dfb1374482445b8b1e90d7f4279a2, type: 3}
   - {fileID: 21300000, guid: 76839b23534c9444db9f47f8e283b5c0, type: 3}
   - {fileID: 21300000, guid: c98f22335f3e14206b1ebe4669c4f2f6, type: 3}
@@ -459,6 +460,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6a88525cc57f241178c734da42a92cbf, type: 3}
   - {fileID: 21300000, guid: d9c8bb5c381b94e1aa3c186721211d76, type: 3}
   - {fileID: 21300000, guid: ee194c6ca48524d1faeff1850f2fa5f1, type: 3}
+  - {fileID: 21300000, guid: fb3a127ccd4e147098d81f1ea73a7a8d, type: 3}
   - {fileID: 21300000, guid: d39be47cff61149ebbb4811b110bfcf8, type: 3}
   - {fileID: 21300000, guid: f961738c8a1184fb99fd791303f5a093, type: 3}
   - {fileID: 21300000, guid: 3508ed8cc1d9d4f2096b7d6b86ee4e77, type: 3}
@@ -692,6 +694,7 @@ SpriteAtlas:
   - icon_shield_B
   - icon_purplegem
   - icon_scroll
+  - icon_mission
   - icon_purplegem
   - icon_setting
   - icon_gold
@@ -998,6 +1001,7 @@ SpriteAtlas:
   - icon_medal_gold
   - icon_gift
   - icon_bomb
+  - icon_trophy
   - icon_gift
   - icon_horseshoes
   - icon_key

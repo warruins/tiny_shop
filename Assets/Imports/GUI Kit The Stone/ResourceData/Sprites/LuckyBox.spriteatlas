@@ -42,25 +42,14 @@ SpriteAtlas:
       enableTightPacking: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
-    packables:
-    - {fileID: 102900000, guid: ec8d40ec9da86406088d4c6e9eaea2cb, type: 3}
-    totalSpriteSurfaceArea: 423098
+    packables: []
+    totalSpriteSurfaceArea: 0
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites:
-  - {fileID: 21300000, guid: 8fafbb63bfe3e4216bdce434f46f1282, type: 3}
-  - {fileID: 21300000, guid: 75646df37c90342aa9d861c1a8834922, type: 3}
-  - {fileID: 21300000, guid: f99bc345cb4d841b38837dc7313315a0, type: 3}
-  - {fileID: 21300000, guid: 76656bbcbcd6d4f58b8f1a1adad46bfc, type: 3}
-  - {fileID: 21300000, guid: d3aa2b9fee1664803b300a41e0cb223e, type: 3}
-  m_PackedSpriteNamesToIndex:
-  - luckybox_bronze
-  - luckybox_gold
-  - luckybox_platinum
-  - luckybox_diamond
-  - luckybox_silver
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
   m_RenderDataMap: {}
   m_Tag: LuckyBox
   m_IsVariant: 0
